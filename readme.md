@@ -71,9 +71,9 @@ composer install
 
 ---
 
-<div align="center"\>
+<div align="center">
   <br>
-  <small\>\<i\>Dernière mise à jour : 21 mars 2026\</i\>\</small\>
-</div\>
+  <small><i\>Dernière mise à jour : 21 mars 2026\</i\></small>
+</div>
 
 ---
