@@ -1,0 +1,6 @@
+.git
+.docker
+!.docker/apache/apache-vhost.conf
+node_modules
+vendor
+database/*.sqlite

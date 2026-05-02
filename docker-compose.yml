@@ -1,0 +1,12 @@
+---
+services:
+  app:
+    build: .
+    container_name: ecofleury-web
+    ports:
+      - "8080:80"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
